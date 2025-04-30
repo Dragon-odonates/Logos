@@ -1,5 +1,5 @@
 # Logos for the Dragon project
-In this repository you will find all logos for the Dragon project.
+In this repository you will find all logos for the Dragon project in PNG and SVG formats.
 <p float="left">
   <img src="color/dragon_color_bg_text.png" alt = "Color logo" width="200"/>
   <img src="black/dragon_black_bg_text.png" alt = "Black logo" width="200"/>
